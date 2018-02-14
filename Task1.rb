@@ -1,17 +1,17 @@
 class Task1
 
-	def AddNumbers(a,b)
-		c = a+b
+	def squareNum(a)
+		c = a*a
 		return c
 	end
 	
-	def SubtractNumbers(a,b)
-		c=a-b
+	def cubeNum(a)
+		c=a*a*a
 		return c
 	end
 
-	def MultiplyNumbers(a,b)
-		c=a*b
+	def addNum(a,b)
+		c=a+b
 		puts c
 	end
 end
