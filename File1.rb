@@ -1,9 +1,15 @@
 
 class A
 
-	def display_data
+	def display_data()
 		puts "This is the First method. No argument."
 	end
 
-
+	def multiply_numbers(a,b)
+	
+		c=a*b
+		print c
+		
+	end
+	
 end
