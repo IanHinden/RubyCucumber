@@ -1,15 +1,14 @@
 
 class A
 
-	def display_data()
-		puts "This is the First method. No argument."
-	end
-
 	def multiply_numbers(a,b)
-	
 		c=a*b
-		print c
-		
+		return c
+	end
+	
+	def add_numbers(a,b)
+		c=a+b
+		puts c
 	end
 	
 end
