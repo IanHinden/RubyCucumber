@@ -1,6 +1,10 @@
 
 class A
 
+	def initialize()
+		puts "This is my constructor"
+	end
+
 	def multiply_numbers(a,b)
 		c=a*b
 		return c
