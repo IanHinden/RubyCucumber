@@ -1,8 +1,9 @@
 
 class A
 
-	def initialize()
-		puts "This is my constructor"
+	def initialize(a,b)
+		c=a-b
+		puts c
 	end
 
 	def multiply_numbers(a,b)

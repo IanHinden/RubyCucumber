@@ -1,3 +1,3 @@
 require './File1'
 
-obj = A.new
+obj = A.new(10,5)
