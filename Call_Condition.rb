@@ -1,7 +1,6 @@
 require './Condition_1'
 
 obj = Conditions.new
-obj.display_grade(92)
-obj.display_grade(60)
-obj.display_grade(40)
-obj.display_grade(20)
+obj.check_correct_number(22)
+obj.check_correct_number(51)
+obj.check_correct_number(3)
