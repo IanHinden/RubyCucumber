@@ -1,3 +1,4 @@
 require './File1'
 
-obj = A.new(10,5)
+obj = A.new
+obj.test_case_001()

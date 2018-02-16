@@ -1,19 +1,12 @@
 
 class A
 
-	def initialize(a,b)
-		c=a-b
-		puts c
+	def initialize
+		puts "Browser stars"
 	end
 
-	def multiply_numbers(a,b)
-		c=a*b
-		return c
-	end
-	
-	def add_numbers(a,b)
-		c=a+b
-		puts c
+	def test_case_001()
+		puts "This is a test case code"
 	end
 	
 end
