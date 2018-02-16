@@ -1,4 +1,7 @@
 require './Condition_1'
 
 obj = Conditions.new
-obj.check_even_odd(11)
+obj.check(-1)
+obj.check(0)
+obj.check(2)
+obj.check(3)
