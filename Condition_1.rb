@@ -1,25 +1,27 @@
 =begin
 
 Task : We need to create a method which will take 1 argument
-	Check if number is negative, then display "negative number"
-	Check if number is 0, then display "0"
-	Check if number is not number or zero, check even odd
-
+	Check number > 50 puts "pass"
+	Check number > 90 puts "pass with honors"
+	Check number < 50 puts "fail"
+	Check number > 25 display "fail but try recheck"
 =end
 
 class Conditions
 
-	def check(a)
-		if(a > 0)
-			if(a%2==0)
-				puts "Even"
+	def display_grade(a)
+		if(a>50)
+			if(a>90)
+				puts "Pass with honors"
 			else
-				puts "Odd"
+				puts "Pass"
 			end
-		elsif(a==0)
-			puts "Zero"
 		else
-			puts "Less than Zero"
+			if(a<25)
+				puts "Fail but try recheck"
+			else
+				puts "Fail"
+			end
 		end
 	end
 end
