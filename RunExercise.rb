@@ -1,4 +1,4 @@
 require './Exercise'
 
-obj1 = Exercise.new
-obj1.switch(1)
+obj1 = LoopClass.new
+obj1.displayTable(7)
