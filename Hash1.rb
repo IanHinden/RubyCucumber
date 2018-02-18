@@ -1,2 +1,9 @@
-hash1=Hash.new("ABCD")
-puts hash1["K2"]
+
+hash1={"K1"=>"Val1","K2"=>"Val2"}
+
+hash1.each do |k,v|
+
+	puts k
+
+
+end	
