@@ -1,7 +1,6 @@
-file=File.open("./Res1.txt",'r')
+file=File.open("./Write.txt",'a+')
 
-while !file.eof?
+file.puts "Please feel free to call us"
+file.puts "You can e-mail us, too"
 
-	puts file.readline()
-
-end
+file.close()
