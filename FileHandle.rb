@@ -1,6 +1,8 @@
-file=File.open("./Write.txt",'a+')
+file=File.open("./Write.txt", 'r')
+file2=File.open("./Res1.txt",'w')
 
-file.puts "Please feel free to call us"
-file.puts "You can e-mail us, too"
+while !file.eof?
+	file2.puts file.readline()
+end
 
 file.close()
