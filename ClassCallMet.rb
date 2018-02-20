@@ -1,6 +1,4 @@
 require "./ModuleB"
 
-ModuleB::printdata()
-
-obj=ModuleB::A.new
+obj=ModuleB::ModuleC::A.new
 obj.classmet()
