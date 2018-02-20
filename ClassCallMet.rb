@@ -1,4 +1,6 @@
-require "./ClassMet"
+require "./ModuleB"
 
-ClassA.classmet()
-ClassA.myclsmet
+ModuleB::printdata()
+
+obj=ModuleB::A.new
+obj.classmet()
