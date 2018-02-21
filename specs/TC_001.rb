@@ -1,4 +1,5 @@
-require '../lib/MyLib.rb'
+require 'yaml'
 
-obj= Testing.new
-obj.hello
+config=YAML.load_file("../config/config.yml")
+puts config[0]['appURL']
+puts config[1]['detail']
