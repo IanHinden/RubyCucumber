@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc3f87e0-bcea-4b49-b8ee-1f4d98ee54bc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/TC_002" afterPath="$PROJECT_DIR$/TC_002" />
+      <change beforePath="$PROJECT_DIR$/TC_001" afterPath="$PROJECT_DIR$/TC_001" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,22 +12,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/rubytest@TC_002.coverage" NAME="TC_002 Coverage Results" MODIFIED="1519709302221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
+    <SUITE FILE_PATH="coverage/rubytest@TC_002.coverage" NAME="TC_002 Coverage Results" MODIFIED="1519711348895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_001.coverage" NAME="TC_001 Coverage Results" MODIFIED="1519708003806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TC_001" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TC_001" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TC_001">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TC_002" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TC_002" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TC_002">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="33">
@@ -45,8 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TC_001" />
         <option value="$PROJECT_DIR$/TC_002" />
+        <option value="$PROJECT_DIR$/TC_001" />
       </list>
     </option>
   </component>
@@ -170,12 +170,12 @@
       <workItem from="1519701611807" duration="1078000" />
       <workItem from="1519702695829" duration="149000" />
       <workItem from="1519702845592" duration="125000" />
-      <workItem from="1519702971779" duration="5550000" />
+      <workItem from="1519702971779" duration="7472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6902000" />
+    <option name="totallyTimeSpent" value="8824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1274" y="577" width="1400" height="1000" extended-state="0" />
@@ -212,18 +212,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TC_001">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TC_002">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" column="123" lean-forward="false" selection-start-line="1" selection-start-column="123" selection-end-line="1" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TC_001">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

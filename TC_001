@@ -2,4 +2,6 @@ require 'selenium-webdriver'
 Selenium::WebDriver::Chrome.driver_path="C:/Users/IANHIN~1/AppData/Local/Temp/chromedriver_win32/chromedriver.exe"
 caps=Selenium::WebDriver::Remote::Capabilities.chrome(:chrome_options => {detach: true})
 driver=Selenium::WebDriver.for :chrome, desired_capabilities: caps
-driver.get("http://www.thegarbage.org")
+#driver.get("http://www.thegarbage.org")
+#
+driver.navigate.to(url "http://www.thegarbage.org")
