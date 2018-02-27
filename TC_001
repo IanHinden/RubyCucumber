@@ -1,0 +1,4 @@
+require 'selenium-webdriver'
+Selenium::WebDriver::Chrome.driver_path="C:/Users/IANHIN~1/AppData/Local/Temp/chromedriver_win32.zip/chromedriver.exe"
+driver=Selenium::WebDriver.for :chrome
+driver.get("http://www.thegarbage.org")
