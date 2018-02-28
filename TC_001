@@ -1,10 +1,12 @@
 require 'selenium-webdriver'
-Selenium::WebDriver::Chrome.driver_path="C:/Users/IANHIN~1/AppData/Local/Temp/chromedriver_win32/chromedriver.exe"
+Selenium::WebDriver::Chrome.driver_path="C:/Users/Ian Hinden/Documents/chromedriver_win32/chromedriver.exe"
 caps=Selenium::WebDriver::Remote::Capabilities.chrome(:chrome_options => {detach: true})
 driver=Selenium::WebDriver.for :chrome, desired_capabilities: caps
+
+#enter URL
 driver.get("http://www.thegarbage.org")
-driver.get("http://www.thegarbage.org/press.html")
+
+driver.find_element(:id, "radio").click
+
+#driver.find_element(:input_type, "text").send_keys("Username1")
 driver.manage.window.maximize()
-driver.navigate().back()
-driver.navigate().refresh()
-driver.quit
