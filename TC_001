@@ -14,7 +14,10 @@ driver.find_element(:name,"pass").send_keys("Hello123")
 
 
 driver.manage.window.maximize()
-driver.find_element(:xpath,"//input[@type='submit']").click
+#driver.find_element(:xpath,"//input[@type='submit']").click
+
+#click on links
+driver.find_element(:id,"u_0_c").click
 
 driver.get("http://www.thegarbage.org")
 driver.find_element(:xpath,"//input[@type='text']").send_keys("Ian.Hinden@gmail.com")
