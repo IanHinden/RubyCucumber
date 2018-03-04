@@ -4,9 +4,14 @@ caps=Selenium::WebDriver::Remote::Capabilities.chrome(:chrome_options => {detach
 driver=Selenium::WebDriver.for :chrome, desired_capabilities: caps
 
 #enter URL
-driver.get("http://www.thegarbage.org")
+driver.get("https://www.facebook.com")
 
-driver.find_element(:id, "radio").click
+#text boxes
+driver.find_element(:id, "email").send_keys("Username1")
+driver.find_element(:id,"email").clear()
+driver.find_element(:id,"email").send_keys("ABC")
+driver.find_element(:name,"pass").send_keys("Hello123")
 
-#driver.find_element(:input_type, "text").send_keys("Username1")
+
 driver.manage.window.maximize()
+driver.find_element(:xpath,"//input[@type='submit']").click
