@@ -16,6 +16,9 @@ driver.find_element(:name,"pass").send_keys("Hello123")
 driver.manage.window.maximize()
 #driver.find_element(:xpath,"//input[@type='submit']").click
 
+month_dropdown=driver.find_element(:id,"month")
+month= Selenium::WebDriver::Support::Select.new(:month_dropdown)
+month.select_by(:text, "Dec")
 #click on links
 driver.find_element(:id,"u_0_c").click
 
