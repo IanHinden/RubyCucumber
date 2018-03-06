@@ -1,0 +1,15 @@
+require 'test/unit'
+
+class TC_001_Verify_Login_Functionality < Test::Unit::TestCase
+
+  def testCase1
+
+    puts "This is Test Case Code"
+
+  end
+
+  def setup
+    puts "This is the setup"
+  end
+
+end
