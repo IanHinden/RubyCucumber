@@ -14,7 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/rubytest@TC_002.coverage" NAME="TC_002 Coverage Results" MODIFIED="1519713491465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_001.coverage" NAME="TC_001 Coverage Results" MODIFIED="1520313868769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
-    <SUITE FILE_PATH="coverage/rubytest@TC_004.coverage" NAME="TC_004 Coverage Results" MODIFIED="1520316338813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
+    <SUITE FILE_PATH="coverage/rubytest@TC_004.coverage" NAME="TC_004 Coverage Results" MODIFIED="1520320180977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
@@ -31,8 +31,8 @@
       <file leaf-file-name="TC_004" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TC_004">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="396">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -201,12 +201,12 @@
       <workItem from="1519702845592" duration="125000" />
       <workItem from="1519702971779" duration="19731000" />
       <workItem from="1520177632717" duration="5192000" />
-      <workItem from="1520264524839" duration="4812000" />
+      <workItem from="1520264524839" duration="7606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31087000" />
+    <option name="totallyTimeSpent" value="33881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1321" y="318" width="1400" height="1000" extended-state="0" />
@@ -292,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TC_004">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="396">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>

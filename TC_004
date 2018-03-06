@@ -5,7 +5,7 @@ class TC_001_Verify_Login_Functionality < Test::Unit::TestCase
   def testCase1
 
     puts "This is Test Case Code"
-
+    assert_not_equal("hello", "hello", "[ERROR] - Actual string is not same as expected")
   end
 
   def setup
@@ -14,6 +14,10 @@ class TC_001_Verify_Login_Functionality < Test::Unit::TestCase
 
   def teardown
     puts "Close browser"
+  end
+
+  def testcase2
+    puts "This is test 2"
   end
 
 end
