@@ -12,4 +12,8 @@ class TC_001_Verify_Login_Functionality < Test::Unit::TestCase
     puts "This is the setup"
   end
 
+  def teardown
+    puts "Close browser"
+  end
+
 end
