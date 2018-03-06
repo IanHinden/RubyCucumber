@@ -1,0 +1,19 @@
+require 'test/unit'
+require 'selenium-webdriver'
+
+class TC_001_Validate_Loging_Functionality
+
+  def setup
+    Selenium::WebDriver::Chrome.driver_path="C:/Users/Ian Hinden/Documents/chromedriver_win32/chromedriver.exe"
+    driver = Selenium::WebDriver.for :chrome
+  end
+
+  def teardown
+
+  end
+
+  def testLoginFunctionality
+
+  end
+
+end
