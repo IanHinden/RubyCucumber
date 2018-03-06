@@ -8,9 +8,9 @@ driver.get("https://www.facebook.com")
 
 #text boxes
 driver.find_element(:id, "email").send_keys("Username1")
-driver.find_element(:id,"email").clear()
-driver.find_element(:id,"email").send_keys("ABC")
-driver.find_element(:name,"pass").send_keys("Hello123")
+driver.action.send_keys(:tab).perform
+driver.action.send_keys("Passwprd").perform
+driver.action.send_keys(:enter).perform
 
 
 #driver.manage.window.maximize()
