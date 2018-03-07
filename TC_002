@@ -1,4 +1,0 @@
-require 'selenium-webdriver'
-Selenium::WebDriver::Firefox.driver_path="C:/Users/Ian Hinden/AppData/Local/Temp/geckodriver-v0.19.1-win64/geckodriver.exe"
-driver=Selenium::WebDriver.for :firefox
-driver.get("http://www.thegarbage.org")
