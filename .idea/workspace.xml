@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc3f87e0-bcea-4b49-b8ee-1f4d98ee54bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/TC_005_TestCase_Login_Functionality" afterPath="$PROJECT_DIR$/TC_005_TestCase_Login_Functionality" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/rubytest@TC_002.coverage" NAME="TC_002 Coverage Results" MODIFIED="1519713491465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_001.coverage" NAME="TC_001 Coverage Results" MODIFIED="1520313868769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
-    <SUITE FILE_PATH="coverage/rubytest@TC_005_TestCase_Login_Functionality.coverage" NAME="TC_005_TestCase_Login_Functionality Coverage Results" MODIFIED="1520397934152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
+    <SUITE FILE_PATH="coverage/rubytest@TC_005_TestCase_Login_Functionality.coverage" NAME="TC_005_TestCase_Login_Functionality Coverage Results" MODIFIED="1520398729830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_004.coverage" NAME="TC_004 Coverage Results" MODIFIED="1520397644426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
   </component>
   <component name="FileEditorManager">
@@ -42,8 +43,8 @@
       <file leaf-file-name="TC_005_TestCase_Login_Functionality" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TC_005_TestCase_Login_Functionality">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="627">
+              <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -82,8 +83,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1218" />
-    <option name="y" value="236" />
+    <option name="x" value="983" />
+    <option name="y" value="143" />
     <option name="width" value="1711" />
     <option name="height" value="1377" />
   </component>
@@ -229,15 +230,15 @@
       <workItem from="1519702845592" duration="125000" />
       <workItem from="1519702971779" duration="19731000" />
       <workItem from="1520177632717" duration="5192000" />
-      <workItem from="1520264524839" duration="10520000" />
+      <workItem from="1520264524839" duration="11387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36795000" />
+    <option name="totallyTimeSpent" value="37662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1218" y="236" width="1711" height="1377" extended-state="0" />
+    <frame x="983" y="143" width="1711" height="1377" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20356083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -329,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TC_005_TestCase_Login_Functionality">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="627">
+          <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
           <folding />
         </state>
       </provider>
