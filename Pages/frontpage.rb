@@ -2,9 +2,13 @@ require 'selenium-webdriver'
 
 class FrontPage
 
-	@chromedirver
-	def initlaize(driver)
-		@chromedriver[driver]
+	@chromedriver
+	def initialize(driver)
+		@chromedriver=driver
 	end
 	
-emd
+	def clickRadio
+		@chromedriver.find_element(:id,"radio").click
+	end
+	
+end
