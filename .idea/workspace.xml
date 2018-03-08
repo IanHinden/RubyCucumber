@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc3f87e0-bcea-4b49-b8ee-1f4d98ee54bc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/TC_001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TC_002" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TC_004" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TC_005_TestCase_Login_Functionality" afterPath="" />
-    </list>
+    <list default="true" id="cc3f87e0-bcea-4b49-b8ee-1f4d98ee54bc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,12 +186,12 @@
       <workItem from="1519702845592" duration="125000" />
       <workItem from="1519702971779" duration="19731000" />
       <workItem from="1520177632717" duration="5192000" />
-      <workItem from="1520264524839" duration="12560000" />
+      <workItem from="1520264524839" duration="12973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38835000" />
+    <option name="totallyTimeSpent" value="39248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="994" y="300" width="1711" height="1377" extended-state="1" />
