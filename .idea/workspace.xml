@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc3f87e0-bcea-4b49-b8ee-1f4d98ee54bc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assertions/assert.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TestCases/tc_001.rb" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,15 +16,46 @@
     <SUITE FILE_PATH="coverage/rubytest@TC_002.coverage" NAME="TC_002 Coverage Results" MODIFIED="1519713491465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_001.coverage" NAME="TC_001 Coverage Results" MODIFIED="1520313868769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_005_TestCase_Login_Functionality.coverage" NAME="TC_005_TestCase_Login_Functionality Coverage Results" MODIFIED="1520398729830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
+    <SUITE FILE_PATH="coverage/rubytest@tc_001.coverage" NAME="tc_001 Coverage Results" MODIFIED="1520651990494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" MODULE_NAME="rubytest" />
     <SUITE FILE_PATH="coverage/rubytest@TC_004.coverage" NAME="TC_004 Coverage Results" MODIFIED="1520397644426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubytest" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="assert.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assert.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assertions/assert.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="330">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tc_001.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestCases/tc_001.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontpage.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/frontpage.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Base/base.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,6 +82,7 @@
         <option value="$PROJECT_DIR$/TC_004" />
         <option value="$PROJECT_DIR$/TC_005_TestCase_Login_Functionality" />
         <option value="$PROJECT_DIR$/Assertions/assert.rb" />
+        <option value="$PROJECT_DIR$/TestCases/tc_001.rb" />
       </list>
     </option>
   </component>
@@ -60,9 +92,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1129" />
-    <option name="y" value="184" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="92" />
+    <option name="y" value="210" />
     <option name="width" value="1711" />
     <option name="height" value="1377" />
   </component>
@@ -88,6 +120,36 @@
             <path>
               <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Assertions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubytest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rubytest" type="b2602c69:ProjectViewProjectNode" />
@@ -117,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.TC_005_TestCase_Login_Functionality">
+  <component name="RunManager" selected="Ruby.tc_001">
     <configuration name="TC_001" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubytest" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -174,18 +236,34 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/TC_005_TestCase_Login_Functionality" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <list size="4">
+    <configuration name="tc_001" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="rubytest" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/TestCases" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/TestCases/tc_001.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Ruby.TC_001" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.TC_002" />
       <item index="2" class="java.lang.String" itemvalue="Ruby.TC_004" />
       <item index="3" class="java.lang.String" itemvalue="Ruby.TC_005_TestCase_Login_Functionality" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.tc_001" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.TC_005_TestCase_Login_Functionality" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.TC_004" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.TC_001" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.TC_002" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.tc_001" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.TC_005_TestCase_Login_Functionality" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.TC_004" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.TC_001" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.TC_002" />
       </list>
     </recent_temporary>
   </component>
@@ -208,24 +286,24 @@
       <workItem from="1519702845592" duration="125000" />
       <workItem from="1519702971779" duration="19731000" />
       <workItem from="1520177632717" duration="5192000" />
-      <workItem from="1520264524839" duration="13352000" />
+      <workItem from="1520264524839" duration="15816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39627000" />
+    <option name="totallyTimeSpent" value="42091000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1129" y="184" width="1711" height="1377" extended-state="0" />
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20356083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1253655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5029112" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22768223" sideWeight="0.4970888" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17224288" sideWeight="0.4970888" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -316,8 +394,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assertions/assert.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="330">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/frontpage.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/tc_001.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
