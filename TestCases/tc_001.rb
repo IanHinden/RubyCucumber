@@ -7,10 +7,10 @@ require '../Assertions/assert'
 class TC_001 < TestAutomationBase
 
   def test_TestCase1
-
-    frontpage = FrontPage.new @@driver
-    frontpage.clickRadio
-
+    front = FrontPage.new @@driver
+    validation = Assert.new
+    res = validation.validateURL(@@driver, 'http://www.thegarbage.org/')
+    assert_true(res, '[ERROR] Front Page is Incorrect')
+    front.clickRadio
   end
-
 end
