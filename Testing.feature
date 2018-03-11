@@ -10,8 +10,10 @@ Scenario: Terms and Conditions Checkbox by customer
 Feature: E-mail Submit
 	Here we will test that when a customer enters their e-mail address and clicks, it is submitted to the database
 	
-Scenario: Customer puts in valid e-mail address and submits
+Background:
 	Given User is on Login page
+
+Scenario: Customer puts in valid e-mail address and submits
 	When User puts their e-mail address in the field
 	And the e-mail address is valid
 	And the User clicks on the "Submit" button
@@ -19,14 +21,12 @@ Scenario: Customer puts in valid e-mail address and submits
 	And the e-mail address should be in the database
 
 Scenario: Customer put in invalid e-mail address and submits
-	Given User is on Login page
 	When User puts their e-mail address in the field
 	And the e-mail address is not valid
 	And the User clicks on the "Submit" button
 	Then the text should appear that their submission was not accepted
 
 Scenario: Customer puts in password and submits
-	Given user is on Login page
 	When User puts the password into the field
 	And the User clicks on the "Submit" button
 	Then the secret message should display
