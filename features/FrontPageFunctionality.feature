@@ -1,5 +1,5 @@
 Feature: Test functions of front page
-	@HighPriority
+	@HighPriority @P1
 	Scenario: Clicking Terms and Conditions button
 		Given User is on front page
 		When user clicks the terms and conditions radio button

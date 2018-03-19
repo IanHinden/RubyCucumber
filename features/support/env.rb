@@ -1,4 +1,4 @@
-Before('@HighPriority','@LowPriority') do
+Before('@HighPriority','@P1') do
 	puts "***********************"
 	puts "       Before Hook     "
 	puts "***********************"
